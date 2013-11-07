@@ -1,0 +1,7 @@
+IndexOptions HTMLTable
+IndexOptions FancyIndexing
+IndexOptions FoldersFirst
+IndexOptions ScanHTMLTitles
+IndexOptions SuppressDescription
+IndexOptions SuppressRules
+IndexStyleSheet "/localhost-directory-gui/style.css"
