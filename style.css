@@ -87,6 +87,5 @@ tbody td a[href$="/"]:before {
   opacity: 0.7;
   width: 1.3rem;
   display: inline-block; }
-tbody td a:not([href$="/"]):before {
-  content: '';
-  margin-right: 1.3rem; }
+tbody td a:not([href$="/"]) {
+  margin-left: 1.3rem; }
