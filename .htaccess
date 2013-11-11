@@ -1,7 +1,2 @@
-IndexOptions HTMLTable
-IndexOptions FancyIndexing
-IndexOptions FoldersFirst
-IndexOptions ScanHTMLTitles
-IndexOptions SuppressDescription
-IndexOptions SuppressRules
+IndexOptions HTMLTable FancyIndexing ScanHTMLTitles SuppressIcon SuppressDescription SuppressRules NameWidth=*
 IndexStyleSheet "/localhost-directory-gui/style.css"

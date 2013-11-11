@@ -5,6 +5,8 @@ A facelift for the localhost directory
 
 <img src="http://norther.li/_github/localhost-gui.png"/>
 
-
-<h3>Installation</h3>
-To Install just place the index.php and style.css files in the root folder (or any subfolder) of your localhost directory (i.e. htdocs/).
+###About
+Uses native apache configuration options to make directory listings a little prettier.
+###Installation
+To Install, copy the .htaccess file into the root folder of your localhost directory (i.e. htdocs/). It will be inherited by subfolders.
+Preserve this folder for css and easier update process through git.
