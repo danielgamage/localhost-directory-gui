@@ -1,2 +1,2 @@
-IndexOptions HTMLTable FancyIndexing ScanHTMLTitles SuppressIcon SuppressDescription SuppressRules NameWidth=*
+IndexOptions HTMLTable FancyIndexing ScanHTMLTitles SuppressIcon SuppressLastModified SuppressDescription SuppressRules NameWidth=*
 IndexStyleSheet "/localhost-directory-gui/style.css"
