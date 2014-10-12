@@ -1,8 +1,9 @@
 @charset "UTF-8";
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
+@-ms-viewport {
+  width: device-width; }
 @viewport {
   width: device-width; }
-
 *,
 *:before,
 *:after {

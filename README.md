@@ -24,3 +24,8 @@ htdocs/
   folder-b/
   folder-c/
 ```
+
+###Notes on Responsive Functionality
+It's responsive—_Technically_. Because we're using Apache config, we can't inject a ``<meta name=viewport>`` tag. That means that mobile devices that use a 960px baseline viewport won't use their native screen size when browsing your localhost.
+What I've done instead is use a @viewport rule to ask devices this. The @viewport rule is still new, so support isn't quite there yet. You can keep track of support over at [the webplatform.org article](http://docs.webplatform.org/wiki/css/atrules/@viewport).
+
